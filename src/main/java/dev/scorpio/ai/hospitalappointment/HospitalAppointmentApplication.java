@@ -1,0 +1,13 @@
+package dev.scorpio.ai.hospitalappointment;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class HospitalAppointmentApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(HospitalAppointmentApplication.class, args);
+    }
+
+}
